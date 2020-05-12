@@ -1,4 +1,6 @@
-poulet
-boeuf
+Poulet
+Boeuf
 Porc
 Agneau
+Chien
+
