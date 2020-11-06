@@ -1,4 +1,4 @@
-Legumes
+-- LEGUMES --
 Tomates
 Concombres
 Navtes
